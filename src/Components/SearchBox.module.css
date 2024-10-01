@@ -1,0 +1,27 @@
+.Search {
+    margin: 0 10px 50px;
+    
+}
+.Search input {
+    border: 4px dashed #fe5d42;
+    padding: 10px;
+    height: 50px;
+    width: 270px;
+    font-size: 0.9rem;
+    color: #fe5d42;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-right: 10px;
+}
+.Search button {
+    padding: 10px;
+    font-size: 3rem;
+    background-color:inherit;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    top: 90%;
+}
